@@ -1,0 +1,32 @@
+The second challenge in the Python CLI Competition is the Cash Register Challenge. Teams
+will be required to design, code, and compile a working POS Program with the ability to
+use the following features:
+		- Inventory Management
+			- Add / Remove Stock Automatically
+			- Change Price per Unit of Each Stock
+		- Security
+			- Login
+				- Terminals Must Be Secured with either a Username and Password, or a PIN
+				- Must have the ability to change login information
+		- Money
+			- Must be able to calculate and keep track of the current register balance
+			- Calculate for tax
+			- Calculate for change from tender
+		- Bonus
+			- Include the purchase price of the stock from the manufacturer and calculate
+				the total profits after tax and sales
+				
+Judging Scale:
+	Teams will be judged on the following aspects:
+	
+		- Functionality (out of 20)
+				- Does the unit functionally include the required features?
+		- Interface (out of 10)
+				- Is the interface layout intuitive and easy to use?
+				- Does the interface provide quick information about the money and stock?
+		- Flexibility (out of 10)
+				- Is your program structure designed to be flexible and adapt to meet the needs of an employer?
+				- Is your program code formatted correctly making use of comments, variables, etc?
+		- Bonus (up to 5)
+				- Does your program include the features listed in the bonus list?
+				- How well are these features implemented?

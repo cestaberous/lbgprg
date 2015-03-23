@@ -1,0 +1,38 @@
+The first challenge in the Python CLI competition is the Fibonnacci Series challenge.
+
+What is the Fibonnacci Series? Fi·bo·nac·ci se·ries
+		noun: Fibonacci sequence
+		a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers.
+		The simplest is the series 1, 1, 2, 3, 5, 8, etc.
+
+Teams will be required to write a program that can provide the Fibonnacci Series to the nth integer.
+by calculation, not memorization. This means that the program must calculate each integer up to the 
+specified place. The program should take user input for the number of items, calculate the series, and
+display the series in a neatly formatted layout.
+
+Bonus: 
+	Include a generator for a Look & Say sequence to the nth integer.
+	
+	What is the Look & Say Sequence?
+	
+		 Look and say sequence: In mathematics, the look-and-say sequence is the sequence of integers as below:
+
+         1, 11, 21, 1211, 111221, 312211, 13112221, 1113213211, …
+
+         To generate a term of the sequence from the previous term, just ‘look and say or read’
+         the digits of the previous member. For example:1 is read off as “one 1″ or 11. 11 is read
+         off as “two 1s” or 21. 21 is read off as “one 2, then one 1″ or 1211. 1211 is read off as 
+         “one 1, then one 2, then two 1s” or 111221. And so forth.
+
+You will be judged on:
+
+		- Function (out of 20)
+				- Does your program complete the requisites using calculation?
+		- Format (out of 10)
+				- Does your program take user input efficiently?
+				- Does your program format the output in an easily readable manner?
+		- Code (out of 10)
+				- Is your code formatted correctly making use of comments, variables, and indentation?
+		- Bonus (up to 10)
+				- Does your program include the features in the bonus category?
+				- How well are these features implemented?

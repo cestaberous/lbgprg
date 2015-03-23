@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+a {
+    display: block;
+    margin-right: 10px;
+}
+
+div {
+	display: inline;
+	padding: 10px;
+}
+
+div.header:hover body {
+	background: yellow;
+}
